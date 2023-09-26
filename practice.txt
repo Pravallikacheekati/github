@@ -1,0 +1,3 @@
+
+Copying an Amazon Machine Image (AMI) from one AWS account to another AWS account involves several steps, including sharing the AMI and then copying it to the destination account. Here's a step-by-step guide on how to do it:
+Adding New line
